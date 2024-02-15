@@ -1,5 +1,7 @@
 # 2D Zombie Shooter Game
 
+## Gamplay
+https://youtu.be/n_CTybwt1Xo?si=hTv2K0jV_kzMLAvC
 ## Overview
 Welcome to our 2D Zombie Shooter game project, a thrilling game set in a Montreal Metro station where players fight off waves of zombies. This game combines strategic gameplay with exciting shooter mechanics, set in a visually rich 2D environment with a 3D camera perspective.
 
